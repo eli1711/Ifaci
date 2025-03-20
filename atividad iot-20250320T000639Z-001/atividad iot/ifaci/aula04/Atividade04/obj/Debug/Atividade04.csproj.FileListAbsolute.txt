@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\bin\Debug\Atividade04.exe.config
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\bin\Debug\Atividade04.exe
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\bin\Debug\Atividade04.pdb
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.Form1.resources
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.exe
+C:\Users\Aluno\Desktop\ifaci\aula04\Atividade04\obj\Debug\Atividade04.pdb
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\bin\Debug\Atividade04.exe.config
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\bin\Debug\Atividade04.exe
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\bin\Debug\Atividade04.pdb
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.Form1.resources
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.Properties.Resources.resources
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.exe
+C:\Users\Aluno\Desktop\atividad iot-20250320T000639Z-001\atividad iot\ifaci\aula04\Atividade04\obj\Debug\Atividade04.pdb

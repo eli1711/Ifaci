@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\IFACI\\atividad iot-20250320T000639Z-001\\atividad iot\\ifaci\\aula04\\Atividade04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47FD51-C279-4733-86E2-3919F4E74302}|Atividade04.csproj|c:\\users\\aluno\\desktop\\ifaci\\atividad iot-20250320t000639z-001\\atividad iot\\ifaci\\aula04\\atividade04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB47FD51-C279-4733-86E2-3919F4E74302}|Atividade04.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB47FD51-C279-4733-86E2-3919F4E74302}|Atividade04.csproj|C:\\Users\\Aluno\\Desktop\\IFACI\\atividad iot-20250320T000639Z-001\\atividad iot\\ifaci\\aula04\\Atividade04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB47FD51-C279-4733-86E2-3919F4E74302}|Atividade04.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\IFACI\\atividad iot-20250320T000639Z-001\\atividad iot\\ifaci\\aula04\\Atividade04\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\IFACI\\atividad iot-20250320T000639Z-001\\atividad iot\\ifaci\\aula04\\Atividade04\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAA8wIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:25:40.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\IFACI\\atividad iot-20250320T000639Z-001\\atividad iot\\ifaci\\aula04\\Atividade04\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\IFACI\\atividad iot-20250320T000639Z-001\\atividad iot\\ifaci\\aula04\\Atividade04\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T00:20:39.835Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
